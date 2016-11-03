@@ -1,4 +1,22 @@
-label {
-  color:red;
+body {
+    text-align: center;
+	background-color: slategrey;
+	font-size: 100px;
+}
+
+#weight {
+   width: 500px;
+   height: 50px;
+   font-size: 50px;
+   color: red;
+}
+
+#gravity {
+width: auto;
+   height: 50px;
+   font-size: 50px;
+   color: red;
+}
+
 
 }
